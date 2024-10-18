@@ -1,2 +1,2 @@
 # prueba-rimsha
-Repositorio de Prueba 2ASIR
+Repositorio de Prueba ASIR2
